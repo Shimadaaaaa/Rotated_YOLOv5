@@ -1,0 +1,5 @@
+# ninja log v5
+0	25617	1603848561054851874	/media/z1/7794144a-d692-4092-bcdc-1dd1f2263b2b/project/rotate_yolov5/utils/nms/build/temp.linux-x86_64-3.8/src/rotate_polygon_nms.o	615d079e3f7c799b
+1	16708	1603848581430414310	/media/z1/7794144a-d692-4092-bcdc-1dd1f2263b2b/project/rotate_yolov5/utils/nms/build/temp.linux-x86_64-3.8/src/rotate_polygon_nms_kernel.o	97ce3377ce6815d4
+2	16680	1603853615546563266	/media/z1/7794144a-d692-4092-bcdc-1dd1f2263b2b/project/rotate_yolov5/utils/nms/build/temp.linux-x86_64-3.8/src/rotate_polygon_nms_kernel.o	97ce3377ce6815d4
+2	25723	1603853624590402147	/media/z1/7794144a-d692-4092-bcdc-1dd1f2263b2b/project/rotate_yolov5/utils/nms/build/temp.linux-x86_64-3.8/src/rotate_polygon_nms.o	615d079e3f7c799b
